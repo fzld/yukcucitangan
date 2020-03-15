@@ -1,22 +1,11 @@
-# yukcucitangan
+# #YukCuciTangan
 
-> Gerakan kecil yang mengajak kita semua untuk mencuci tangan.
+> This repository contain COVID-19 data. But mainly a movement to make people wash their hands.
 
-## Build Setup
+# Data Resource
 
-``` bash
-# install dependencies
-$ npm install
+> The data API is provided from [mathdroid/covid19](https://github.com/mathdroid/covid-19-api)
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+# Contributing
 
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+> make a pull req
