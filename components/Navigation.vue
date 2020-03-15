@@ -12,8 +12,7 @@
         </div>
         <div class="navbar-menu" v-bind:class="{'is-active': isOpen}">
             <div class="navbar-end">
-                <nuxt-link to="/about" class="navbar-item is-tab">Tentang Kami</nuxt-link>
-                <nuxt-link to="/faq" class="navbar-item is-tab">FAQ</nuxt-link>
+                <nuxt-link to="/about" class="navbar-item">Tentang Kami</nuxt-link>
                 <p class="navbar-item">      </p>
             </div>
         </div>
