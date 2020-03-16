@@ -5,7 +5,3 @@
 # Data Resource
 
 > The data API is provided from [mathdroid/covid19](https://github.com/mathdroid/covid-19-api)
-
-# Contributing
-
-> make a pull req
