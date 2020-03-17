@@ -19,7 +19,7 @@
 <script>
 export default {
     asyncData(context) {
-        return context.app.$storyapi.get('cdn/stories/' + context.params.postId, {
+        return context.app.$storyapi.get('cdn/stories/blog/' + context.params.postId, {
             version: 'draft'
         }).then(res => {
             return {
