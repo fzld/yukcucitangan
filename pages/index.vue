@@ -174,6 +174,10 @@ export default {
   color: #c20505;
 }
 
+.card {
+  margin: 0.5rem;
+}
+
 @media(max-width: 768px) {
   .container {
     margin: 60px 20px;

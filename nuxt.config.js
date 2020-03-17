@@ -42,6 +42,7 @@ export default {
     '@nuxtjs/bulma',
     // Doc: https://axios.nuxtjs.org/usage
     '@nuxtjs/axios',
+    ['storyblok-nuxt', {accessToken: 'dmEdfGN0gSqkCRDp8M52VAtt', cacheProvider: 'memory'}]
   ],
   /*
   ** Axios module configuration
