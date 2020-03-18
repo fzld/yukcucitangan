@@ -10,8 +10,7 @@
         <div class="footer">
             &copy; 2020 #YukCuciTangan
             <br>
-            Data dari API <a href="https://github.com/mathdroid">@mathdroid</a><br>
-            Reponya <a href="https://github.com/fzld/yukcucitangan">disini</a> ya, hehe.
+            Data dari API <a href="https://github.com/mathdroid">@mathdroid</a>
         </div>
     </div>
 </template>

@@ -2,7 +2,8 @@
   <div class="container">
     <h1 class="title">#YukCuciTangan</h1>
     <p class="subtitle">Kenapa sih kita harus cuci tangan?</p>
-    <p class="subtitle"><i>Ya biar bersih lah.</i> Iya kita juga paham segitu aja mah.
+    <p class="subtitle"><b><i>Ya biar bersih lah.</i></b></p>
+    <p class="subtitle">Iya kita juga paham segitu aja mah.
     Jadi kita disini untuk mengajak kalian semua untuk mencuci tangan sebagai langkah preventif penularan virus yang lagi naik daun, apalagi kalo bukan COVID-19.</p>
     <p class="subtitle">Nih kita kasih tau angka kasus COVID-19 di Indonesia</p>
 
