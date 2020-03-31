@@ -8,8 +8,8 @@
 
     <br>
     <br>
-    <p class="subtitle">Dengan melonjaknya angka kasus COVID-19 ini, masa iya kita masih belum sadar pentingnya cuci tangan? WHO pun sudah menyarankan mencuci tangan sebagai langkah pencegahan pertama penyebaran COVID-19, jadi <i><b>bukan pake masker</b></i> apalagi sampe <b><i>nimbun</i></b> ya temen-temen.</p>
-    <p class="subtitle">Kebanyakan mungkin jarang mencuci tangan, mungkin juga ada beberapa diantara kita yang mencuci tangan hanya dengan air, dan mungkin juga masih banyak yang tidak mengerti cara mencuci tangan yang benar. Mencuci tangan dengan benar tentunya dapat mengurangi penyebaran bakteri dan virus.</p>
+    <p class="subtitle">Dengan melonjaknya angka kasus COVID-19 di Indonesia, masa iya kita masih belum sadar pentingnya cuci tangan? WHO pun sudah menyarankan mencuci tangan sebagai langkah pencegahan pertama penyebaran COVID-19, jadi <i><b>bukan pake masker</b></i> apalagi sampe <b><i>nimbun</i></b> ya temen-temen.</p>
+    <p class="subtitle">Kebanyakan mungkin belum sadar akan pentingnya mencuci tangan, mungkin juga ada beberapa diantara kita yang mencuci tangan hanya dengan air, dan mungkin juga masih banyak yang tidak mengerti cara mencuci tangan yang benar. Mencuci tangan dengan benar tentunya dapat mengurangi penyebaran bakteri dan virus.</p>
     <p class="subtitle">Untuk kalian yang belum tau cara mencuci tangan yang benar, tenang aja kita bakal kasih tau kok. Yuk belajar bareng cara cuci tangan yang benar. <b>Berikut tata caranya</b></p>
     <p class="subtitle"><b>1</b> Kalian harus basahi tangan kalian dengan air bersih<br>
                         <b>2</b> Ambil sabun secukupnya untuk permukaan tangan <br>
