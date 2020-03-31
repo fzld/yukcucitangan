@@ -5,64 +5,6 @@
     <p class="subtitle"><b><i>Ya biar bersih lah.</i></b></p>
     <p class="subtitle">Iya kita juga paham segitu aja mah.
     Jadi kita disini untuk mengajak kalian semua untuk mencuci tangan sebagai langkah preventif penularan virus yang lagi naik daun, apalagi kalo bukan COVID-19.</p>
-    <p class="subtitle">Nih kita kasih tau angka kasus COVID-19 di Indonesia</p>
-
-    <div class="columns">
-      <div class="column card">
-        <header class="card-header is-danger">
-        <p class="card-header-title">
-          Terkonfirmasi
-        </p>
-        <a href="#" class="card-header-icon" aria-label="more options">
-          <span class="icon">
-            <i class="fas fa-angle-down" aria-hidden="true"></i>
-          </span>
-        </a>
-        </header>
-        <div class="card-content">
-        <div class="content">
-          <p class="card-body confirmed">{{ result.confirmed.value }}</p>
-        </div>
-        </div>
-      </div>
-
-      <div class="column card">
-        <header class="card-header">
-        <p class="card-header-title">
-          Meninggal
-        </p>
-        <a href="#" class="card-header-icon" aria-label="more options">
-          <span class="icon">
-            <i class="fas fa-angle-down" aria-hidden="true"></i>
-          </span>
-        </a>
-        </header>
-        <div class="card-content">
-        <div class="content">
-          <p class="card-body deaths">{{ result.deaths.value }}</p>
-        </div>
-        </div>
-      </div>
-
-      <div class="column card">
-        <header class="card-header">
-        <p class="card-header-title">
-          Sembuh
-        </p>
-        <a href="#" class="card-header-icon" aria-label="more options">
-          <span class="icon">
-            <i class="fas fa-angle-down" aria-hidden="true"></i>
-          </span>
-        </a>
-        </header>
-        <div class="card-content">
-        <div class="content">
-          <p class="card-body recovered">{{ result.recovered.value }}</p>
-        </div>
-        </div>
-      </div>
-    </div>
-    <p>Terakhir diperbarui pada {{ result.lastUpdate }}</p>
 
     <br>
     <br>
