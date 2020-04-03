@@ -5,6 +5,13 @@
         <p class="subtitle">{{ content }}</p>
         <p class="subtitle">{{ paragraph2 }}</p>
         <p class="subtitle">{{ paragraph3 }}</p>
+        <p class="subtitle">{{ paragraph4 }}</p>
+        <p class="subtitle">{{ paragraph5 }}</p>
+        <p class="subtitle">{{ paragraph6 }}</p>
+        <p class="subtitle">{{ paragraph7 }}</p>
+        <p class="subtitle">{{ paragraph8 }}</p>
+        <p class="subtitle">{{ paragraph9 }}</p>
+        <p class="subtitle">{{ paragraph10 }}</p>
         
 
         <div class="footer">
