@@ -34,6 +34,13 @@ export default {
                 content: res.data.story.content.content,
                 paragraph2: res.data.story.content.paragraph2,
                 paragraph3: res.data.story.content.paragraph3,
+                paragraph3: res.data.story.content.paragraph4,
+                paragraph3: res.data.story.content.paragraph5,
+                paragraph3: res.data.story.content.paragraph6,
+                paragraph3: res.data.story.content.paragraph7,
+                paragraph3: res.data.story.content.paragraph8,
+                paragraph3: res.data.story.content.paragraph9,
+                paragraph3: res.data.story.content.paragraph10
             }
         })
     }
