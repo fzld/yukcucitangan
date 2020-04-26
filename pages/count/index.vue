@@ -7,7 +7,7 @@
         <div class="column card">
         <header class="card-header is-danger">
         <p class="card-header-title">
-          Terkonfirmasi
+          Positif
         </p>
         <a href="#" class="card-header-icon" aria-label="more options">
           <span class="icon">
