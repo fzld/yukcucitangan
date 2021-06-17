@@ -6,8 +6,9 @@
 
 > The data API is provided from [mathdroid/covid19](https://github.com/mathdroid/covid-19-api)
 
-# Build Setup
+## Build Setup
 
+```bash
 # install dependencies
 $ npm install
 
@@ -20,3 +21,6 @@ $ npm run start
 
 # generate static project
 $ npm run generate
+```
+
+For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
